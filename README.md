@@ -2,7 +2,7 @@
 First Repository
 ## Heading 1
 ## Table of Contents 
--[PROJECT TITLE] (#Project-Title)
+- [PROJECT TITLE] (#Project-Title)
 
 
 
